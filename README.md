@@ -27,7 +27,7 @@ It allows users to answer multiple-choice questions, track their scores, and imp
 
 ## 📷 Screenshot  
 *(You can replace this image with your own app screenshot)*  
-![Quiz Screenshot](images/cover.png)
+![Quiz Screenshot](images/screenshot.png)
 
 ---
 
