@@ -21,7 +21,11 @@ It allows users to answer multiple-choice questions, track their scores, and imp
 ##  Technologies Used  
 - **HTML5** – Structure of the app  
 - **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Logic, APIs, and local storage  
+- **JavaScript (ES6)** – Logic, APIs, and local storage
+
+
+## 🚀 Live Demo
+https://divy686.github.io/quiz-app/
 
 ---
 
