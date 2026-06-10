@@ -25,7 +25,7 @@ It allows users to answer multiple-choice questions, track their scores, and imp
 
 
 ## 🚀 Live Demo
-https://divy686.github.io/quiz-app/
+https://divy686.github.io/QuizApp/
 
 ---
 
